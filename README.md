@@ -1,4 +1,4 @@
-# DU-COMP4432
+# DU-COMP4432-Machine-Learning
 
 This repository are the assignments completed from University of Denver's Machine Learning course COMP4432 conducted in the Summer 2026 Quarter instructed by Dr. Lucas Sawle.
 
