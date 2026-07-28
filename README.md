@@ -34,7 +34,7 @@ This repository **WILL NOT** house direct class resources, textbooks, and lectur
 
 [Back to Table of Contents](#table-of-contents)
 
-Python version in both environments: `VERSION HERE`
+Python version in both environments: `3.13.5`
 
 You have two options for setting up your Python environment:
 
@@ -122,4 +122,5 @@ You can also use `pip` with the `environment.txt` file. Using pip does not manag
 
 [Back to Table of Contents](#table-of-contents)
 
-- `environment.yml` and `requirements.txt` is not established yet
+- Awaiting instructor approval before uploading assignments
+- Assignments 4 and 5 are not completed yet
