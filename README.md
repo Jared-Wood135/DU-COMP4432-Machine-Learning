@@ -122,5 +122,4 @@ You can also use `pip` with the `environment.txt` file. Using pip does not manag
 
 [Back to Table of Contents](#table-of-contents)
 
-- Awaiting instructor approval before uploading assignments
 - Assignments 4 and 5 are not completed yet
