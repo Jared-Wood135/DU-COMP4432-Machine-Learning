@@ -1,8 +1,8 @@
-# Some-Name-Here
+# DU-COMP4432
 
-INTENT
+This repository are the assignments completed from University of Denver's Machine Learning course COMP4432 conducted in the Summer 2026 Quarter instructed by Dr. Lucas Sawle.
 
-WHAT THE PROJECT DOES
+This repository **WILL NOT** house direct class resources, textbooks, and lectures, but rather, my completed assignments primarily for potential employers to see what topics/materials that I am familiar with from the class.
 
 
 
@@ -12,8 +12,7 @@ WHAT THE PROJECT DOES
 
 - [Acknowledgements](#acknowledgements)
 - [Environment Setup](#environment-setup)
-- [General Project Process](#general-project-process)
-- [Objectives](#objectives)
+- [COMP4432 Overview](#comp4432-overview)
 - [Known Issues](#known-issues)
 
 
@@ -24,11 +23,8 @@ WHAT THE PROJECT DOES
 
 [Back to Table of Contents](#table-of-contents)
 
-- **DATASET:** [DEEPSIG RADIOML 2018.01A](https://www.deepsig.ai/datasets/)
-    - **LICENSE:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-    - **CHANGES MADE:**
-        - Dataset reduced down to only SNR 30 for baseline establishment
-        - This reduced dataset was then used to feature engineer a multitude of seemingly typical information of a signals intelligence anaylsts' pipeline
+- **INSTRUCTOR:** Dr. Lucas Sawle
+    - **INSTITUTION:** University of Denver 2026
 
 
 
@@ -52,7 +48,7 @@ You have two options for setting up your Python environment:
 3. Create the environment using the provided `environment.yml`:
 	```bash
 	conda env create -f environment.yml
-	conda activate RF_HACKING_AI
+	conda activate DU_COMP4432
 	```
 
 ### Option 2: pip (Use with Caution)
@@ -71,31 +67,52 @@ You can also use `pip` with the `environment.txt` file. Using pip does not manag
 
 
 
-## General Project Process
+## COMP4432 Overview
 
 [Back to Table of Contents](#table-of-contents)
 
-STUFF
+- Assignment 1
+	- Exploratory Data Analysis
+		- Seaborn `diamonds` dataset
+	- Data Preparation
+	- Model Development
+		- LinearRegression
+	- Documentation
 
+- Assignment 2
+	- Data Preparation
+		- Seaborn `diamonds` dataset
+	- Model Development and Selection
+		- LinearRegression
+		- Lasso
+		- Ridge
+		- DecisionTreeRegressor
+	- Hyperparameter Tuning
+	- Documentation
 
+- Assignment 3
+	- Exploratory Data Analysis
+		- Seaborn `titanic` dataset
+	- Data Preparation
+	- Model Development, Tuning, and Selection
+		- SupportVectorClassifier
+		- LogisticRegression
+		- DecisionTreeClassifier
+	- Documentation
 
+- Assignment 4
+	- Exploratory Data Analysis
+		- [CS4432.csv](#https://raw.githubusercontent.com/arjayit/cs4432_data/master/bike_share_hour.csv)
+	- Data Preparation
+	- Model Development, Tuning, and Selection
+		- LinearRegression
+		- Lasso
+		- DecisionTreeRegressor
+		- RandomForestRegressor
+	- Documentation
 
-
-## Objectives
-
-[Back to Table of Contents](#table-of-contents)
-
-- [ ] Acquire Dataset
-- [ ] Prepare Dataset
-- [ ] Explore Dataset
-- [ ] Feature Engineering
-- [ ] Select Models
-- [ ] Establish Baseline Models
-- [ ] Optimize Baseline Models
-- [ ] Establish "Better" Models
-- [ ] Optimize "Better" Models
-- [ ] Presentation and Report Creation
-- [ ] Future Implementations
+- Assignment 5
+	- TBD
 
 
 
@@ -105,4 +122,4 @@ STUFF
 
 [Back to Table of Contents](#table-of-contents)
 
-- `environment.yml` and `requirements.txt` is not created yet
+- `environment.yml` and `requirements.txt` is not established yet
