@@ -112,7 +112,11 @@ You can also use `pip` with the `environment.txt` file. Using pip does not manag
 	- Documentation
 
 - Assignment 5
-	- TBD
+	- Exploratory Data Analysis
+		- Instructor custom-made data for clustering
+	- Anomaly/Outlier Detection
+	- Model Development, Tuning, and Selection
+	- Documentation
 
 
 
@@ -122,4 +126,4 @@ You can also use `pip` with the `environment.txt` file. Using pip does not manag
 
 [Back to Table of Contents](#table-of-contents)
 
-- Assignments 4 and 5 are not completed yet
+- None at the moment
